@@ -73,7 +73,7 @@ You can follow me in the next sites/platforms where I constantly publish new con
 -->
 
 
-<p dir="auto"> <a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=estebannoemr&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=0176FF&amp;icon_color=F8D866&amp;hide=Jupyter%20Notebook" style="max-width: 100%" alt="estebannoemr"; height="192px"; width= "100px"/></a> <a><img align="left" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=estebannoemr&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=0176FF&amp;icon_color=F8D866" style="max-width: 100%;"; height="192px"; width= "100px"/></a> </p>
+<p dir="auto"> <a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=estebannoemr&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=0176FF&amp;icon_color=F8D866&amp;hide=Jupyter%20Notebook" style="max-width: 100%" alt="estebannoemr"; height="80px"/></a> <a><img align="left" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=estebannoemr&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=0176FF&amp;icon_color=F8D866" style="max-width: 100%;"; height="180px"/></a> </p>
 
 
 
