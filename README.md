@@ -25,9 +25,9 @@ You can follow me in the next sites/platforms where I constantly publish new con
 
 📺 [Esteban MR Youtube channel](https://www.youtube.com/channel/UCHsGMG_bLjd_yrbieqt8P2w)
 
-👍 [Facebook](https://www.facebook.com/profile.php?id=100004204304436), 🐦[Twitter](https://twitter.com/StevenManRey), 📷[Instagram](https://www.instagram.com/estebannoemr/) and 🎵[Tiktok](https://www.tiktok.com/@stevenmanrey)
+📲 [Telegram](https://t.me/EstebanMR), 📷 [Instagram](https://www.instagram.com/estebannoemr/), 🐦[Twitter](https://twitter.com/StevenManRey), 👍 [Facebook](https://www.facebook.com/profile.php?id=100004204304436), and 🎵[Tiktok](https://www.tiktok.com/@stevenmanrey)
 
-📲 [Telegram](https://t.me/EstebanMR)
+
 
 💼 [My personal Linkedin](https://www.linkedin.com/in/esteban-manrey/)
 
