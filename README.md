@@ -50,7 +50,7 @@ You can follow me in the next sites/platforms where I constantly publish new con
 <h3 align="center">My goals are to increase my technical skills in web design, web development, problems solving, and more.</h3>
 <h3 align="center">My main programming languages/platforms are: Python, Javascript, Java, HTML and CSS.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=estebannoemr&label=Profile%20views&color=0e75b6&style=flat" alt="estebannoemr" /> </p>
+<p align="center"> <img src="https://img.shields.io/twitter/follow/StevenManrey.svg?color=inactive&https%3A%2F%2Ftwitter.com&label=Follow%20%40StevenManrey&logo=Twitter&logoColor=black&style=social" alt="Twitter: StevenManrey" style="max-width: 100%;"> <img src="https://img.shields.io/github/followers/estebannoemr?color=inactive&label=Follow&logoColor=black&style=social" alt="GitHub: EstebanNoeMR" style="max-width: 100%;"> <img src="https://komarev.com/ghpvc/?username=estebannoemr&label=Profile%20views&color=0e75b6&style=flat" alt="estebannoemr" /> </p>
 
 <h3 align="center"><a href="https://estebannoemr.github.io/">Portfolio</a></h3>
 
@@ -76,7 +76,6 @@ You can follow me in the next sites/platforms where I constantly publish new con
 
 
 <p dir="auto"> <a><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=estebannoemr&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=0176FF&amp;icon_color=F8D866" style="max-width: 100%;"; height="180px"/></a> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=estebannoemr&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=0176FF&amp;icon_color=F8D866&amp;hide=Jupyter%20Notebook" style="max-width: 100%" alt="estebannoemr"; height="140px"/></a> </p>
-
 
 
 <!--
